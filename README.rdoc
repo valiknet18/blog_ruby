@@ -1,28 +1,5 @@
-== README
+== Ruby Blog
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+{<img src="https://travis-ci.org/valiknet18/blog_ruby.svg" alt="Build Status" />}[https://travis-ci.org/valiknet18/blog_ruby]
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+My first application on Ruby on Rails
